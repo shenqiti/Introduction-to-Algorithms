@@ -1,3 +1,5 @@
+#By:shenqiti
+
 
 def FIND_MAX_CROSSING_SUBARRAY(A,low,mid,high):
     left_sum = -10000
